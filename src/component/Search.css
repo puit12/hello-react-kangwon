@@ -1,0 +1,35 @@
+
+ul{
+list-style:none;
+}
+
+a{
+font-size:30px;
+text-decoration: none;
+color:black;
+}
+
+small{
+    color:gray;
+}
+a:visited { text-decoration: none; }
+
+
+.channel-title{
+    color:red;
+}
+.item {
+    border: 2px solid black;
+    padding:0px;
+    display:block;
+
+}
+
+.image-wrapper {
+    position:relative;
+}
+
+.text-wrapper{
+    position:relative;
+    display: inline-block;
+}
